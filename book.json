@@ -18,7 +18,7 @@
     ],
     "pluginsConfig": {
         "editlink": {
-            "base": "https://andyzhuangyy.github.com/tech-pedia/edit/master",
+            "base": "https://github.com/andyzhuangyy/tech-pedia/edit/master",
             "label": "Edit This Page",
             "multilingual": false
         },

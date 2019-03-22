@@ -1,4 +1,5 @@
 ## Run this gitbook locally
+
 * `npm install gitbook-cli -g`
 * `npm install`
 * `brew install graphviz` (uml platform needed so we should install graphviz)  
@@ -8,7 +9,8 @@
 * then goto http://localhost:4000 to check the result
 
 ## Generate PDF
-`np m install gitbook-pdf -g`
+
+`npm install gitbook-pdf -g`
  
 `gitbook pdf ./my_repository`
 

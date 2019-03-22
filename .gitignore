@@ -22,6 +22,8 @@ plantuml.jar
 node_modules
 
 # plantuml
-assets/images/uml/*.svg
-assets/images/uml/*.png
+/assets/images/uml/*.svg
+/assets/images/uml/*.png
+!docs/assets/images/uml/*.svg
+!docs/assets/images/uml/*.png
 
