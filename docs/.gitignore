@@ -17,7 +17,7 @@ Thumbs.db
 
 
 # gitbook
-#_book
+_book
 plantuml.jar
 node_modules
 
