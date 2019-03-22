@@ -1,0 +1,27 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "crypto": {
+      "dev": true,
+      "integrity": "sha1-RwqBuGvkxe4XrMggeh9TFa4g27A=",
+      "resolved": "https://registry.npmjs.org/crypto/-/crypto-0.0.3.tgz",
+      "version": "0.0.3"
+    },
+    "gitbook-plugin-codeblock-filename": "0.0.9",
+    "gitbook-plugin-mindmap-7dtime": "^1.0.0",
+    "gitbook-plugin-plantuml": {
+      "dev": true,
+      "integrity": "sha1-RK8S8shcbUDNLzhj2jTsw3qLVws=",
+      "resolved": "https://registry.npmjs.org/gitbook-plugin-plantuml/-/gitbook-plugin-plantuml-0.0.15.tgz",
+      "version": "0.0.15"
+    },
+    "gitbook-plugin-uml": "^1.0.1",
+    "markmap": "^0.6.0",
+    "mkdirp": {
+      "dev": true,
+      "integrity": "sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=",
+      "resolved": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz",
+      "version": "0.5.1"
+    }
+  }
+}

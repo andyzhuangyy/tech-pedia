@@ -1,0 +1,3 @@
+# pedia
+
+from wikipedia

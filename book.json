@@ -1,0 +1,44 @@
+{
+    "description": "My Pedia",
+    "title": "Geekern",
+    "author": "andyzyy@gmail.com",
+    "plugins": [
+        "uml",
+        "editlink",
+        "atoc",
+        "katex",
+        "highlight",
+        "expandable-chapters",
+        "jira",
+        "ad",
+        "add-js-css",
+        "mindmap-7dtime",
+        "include-codeblock",
+        "ace"
+    ],
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://andyzhuangyy.github.com/tech-pedia/edit/master",
+            "label": "Edit This Page",
+            "multilingual": false
+        },
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        },
+        "theme-default": {
+            "showLevel": true
+        },
+        "add-js-css": {
+            "js": [
+                "./utils/addButton.js"
+            ]
+        },
+        "include-codeblock": {
+            "template": "acefull",
+            "unindent": true,
+            "theme": "monokai"
+        }
+
+    }
+}
